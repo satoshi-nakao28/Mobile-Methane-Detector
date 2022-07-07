@@ -4,5 +4,7 @@ It can measure methane gas up to 1.25% concentration (25%LEL) with a resolution 
 
 # Hardware
 1.Raspberry Pi Pico as microcontroller
+
 2.Winsen ZC05 as methane sensor (UART)
+
 3.0.91 Inch 128 × 32 IIC I2C OLED LCD Display
