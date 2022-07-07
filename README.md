@@ -13,4 +13,4 @@ It can measure methane gas up to 1.25% concentration (25%LEL) with a resolution 
 
 # Programming Language
 
-[CircuitPython for Raspberry Pi Pico](https://circuitpython.org/board/raspberry_pi_pico/) ver.7
+[Adafruit CircuitPython for Raspberry Pi Pico](https://circuitpython.org/board/raspberry_pi_pico/) ver.7
