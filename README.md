@@ -14,3 +14,7 @@ It can measure methane gas up to 1.25% concentration (25%LEL) with a resolution 
 # Programming Language
 
 [Adafruit CircuitPython for Raspberry Pi Pico](https://circuitpython.org/board/raspberry_pi_pico/) v7
+
+# Attention
+
+Operation with mobile batteries and dry cell batteries may be unstable. The cause is unknown, but I believe it is due to a power supply-related problem.
