@@ -13,7 +13,7 @@ It can measure methane gas up to 1.25% concentration (25%LEL) with a resolution 
 
 # Connection diagram
 
-![https://github.com/satoshi-nakao28/Mobile-Methane-Detector/issues/3#issue-1301374758](https://github.com/satoshi-nakao28/Mobile-Methane-Detector/issues/3#issue-1301374758)
+https://github.com/satoshi-nakao28/Mobile-Methane-Detector/issues/4#issue-1301387036
 
 # Programming Language
 
