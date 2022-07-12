@@ -8,7 +8,7 @@ from adafruit_display_text import label
 #import adafruit_imageload
 import time
 
-# if you wish to use custom fonts...
+#if you wish to use custom fonts...
 #from adafruit_bitmap_font import bitmap_font
 #font = bitmap_font.load_font("/font.bdf", displayio.Bitmap)
 
