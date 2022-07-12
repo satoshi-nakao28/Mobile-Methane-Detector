@@ -12,6 +12,7 @@ It can measure methane gas up to 1.25% concentration (25%LEL) with a resolution 
 4.  5V, 2.4A mobile battery or 4 AA batteries (6V)
 
 # Connection diagram
+
 [https://github.com/satoshi-nakao28/Mobile-Methane-Detector/issues/3#issue-1301374758](https://github.com/satoshi-nakao28/Mobile-Methane-Detector/issues/3#issue-1301374758)
 
 # Programming Language
