@@ -11,7 +11,7 @@ It can measure methane gas up to 1.25% concentration (25%LEL) with a resolution 
 
 4.  5V, 2.4A mobile battery or 4 AA batteries (6V)
 
-# Connection diagram
+# Connection Diagram
 
 ![Connection diagram](https://user-images.githubusercontent.com/108894502/178381187-27f58dc3-d37d-41fa-8c85-5d0f5dcd32d3.png)
 
